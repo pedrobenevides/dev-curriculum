@@ -6,23 +6,19 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
+author: Pedro Benevides Botelho
 author-title: Full Stack Developer
-gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
-linkedin: wendelladrielti/en
-bio: "Brazilian developer. Game, music and technology lover.
-      I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
-      exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
-      Mobile Development since 2015 as Freelancer and in some Brazilian companies too.
-      I'm the creator of CodeShare, a free portal with articles, videos, etc, about Software Development. The purpose of this project is to help people who want
-      to learn about Software Development and start their careers in IT area and to help people that already work with Software Development to improve their
-      technical knowledge to get better job opportunities.
-      I like to work with both: Front-End and Back-End development. I work with many languages, frameworks and technologies."
+gravatar: 6cf545b8cdd3a2bff5505f4c04ed27a1
+email: contato@pedrobenevides.com.br
+twitter: pedrobenevides_
+github: pedrobenevides
+googleplus: 
+facebook: 
+linkedin: pedro-benevides-83152939
+bio: "I'm a software developer, specialized in the .NET Framework, with solid knowledge on MVC/Web API using C#. 
+Also deeply interested in web development, and always trying to cooperate with software comunity, and
+writer of Code Project website. I work with system development since 2011. I always try to develop follwing
+Clean Code best practices, S.O.L.I.D principles, and applying TDD.
 
 # Skills
 #
@@ -38,89 +34,89 @@ bio: "Brazilian developer. Game, music and technology lover.
 # If you don't want one of the sections below, leave the variable without any values
 front-end:
   - name: HTML 5
-    level: 4
+    level: 3
   - name: CSS 3
-    level: 4
+    level: 3
   - name: JavaScript
     level: 4
   - name: jQuery
     level: 4
-  - name: Angular
-    level: 4
+  - name: Aurelia
+    level: 3
   - name: Vue.js
-    level: 2
+    level: 
   - name: Bootstrap
     level: 4
   - name: Materialize CSS
     level: 5
   - name: LESS
-    level: 3
+    level: 1
   - name: SASS
-    level: 3
+    level: 2
   - name: Stylus
-    level: 4
+    level: 
   - name: Gulp
-    level: 4
-  - name: Grunt
     level: 3
-  - name: Bower
+  - name: Grunt
+    level: 
+  - name: NPM
     level: 3
 
 back-end:
-  - name: PHP
-    level: 5
-  - name: Node.js
-    level: 3
-  - name: Ruby
-    level: 2
-  - name: Python
-    level: 2
-  - name: Java
+  - name: C#
     level: 4
+  - name: ASP.NET 
+    level: 4
+  - name: Entity Framework
+    level: 4
+  - name: Ninject
+    level: 4
+  - name: DDD
+    level: 2
   - name: COBOL
-    level: 2
+    level: 
   - name: SQL
-    level: 4
+    level:
   - name: Lua
-    level: 2
+    level: 
 
 mobile:
   - name: Android
-    level: 2
+    level: 
   - name: Apache Cordova
-    level: 4
+    level: 2
   - name: Ionic
-    level: 4
-  - name: NativeScript
-    level: 3
+    level: 2
+  - name: Objective-C
+    level: 2
 
 db:
   - name: MySQL
-    level: 4
-  - name: PostgreSQL
-    level: 3
-  - name: MongoDB
-    level: 4
-  - name: SQL Server
     level: 2
-  - name: Oracle
-    level: 3
-  - name: Firebase
-    level: 3
-  - name: NoSQL
+  - name: PostgreSQL
+    level: 1
+  - name: MongoDB
+    level: 
+  - name: SQL Server
     level: 4
+  - name: Oracle
+    level: 
+  - name: Firebase
+    level: 
+  - name: NoSQL
+    level: 
 
 devops:
   - name: Docker
-    level: 3
-  - name: Vagrant
-    level: 3
-  - name: Jenkins
     level: 1
+  - name: Vagrant
+    level: 
+  - name: Team City
+    level: 2
   - name: Git
-    level: 5
+    level: 4
   - name: Apache Maven
-    level: 3
+    level: 
   - name: Continuous Integration
     level: 3
   - name: Continuous Delivery
@@ -130,37 +126,37 @@ methodologies:
   - name: Agile Methodologies
     level: 3
   - name: Scrum
-    level: 4
-  - name: RUP
     level: 3
+  - name: RUP
+    level: 
 
 others:
   - name: Web Services
-    level: 5
+    level: 4
   - name: REST
-    level: 5
+    level: 4
   - name: JEE, JSF, JPA, EJB, CDI
-    level: 3
+    level: 
   - name: iReport, Jasper Reports
-    level: 2
+    level: 
   - name: Hibernate
-    level: 3
+    level: 
   - name: Grails
-    level: 2
+    level: 
   - name: Symfony
-    level: 3
+    level: 
   - name: Twig
-    level: 4
+    level: 
   - name: Doctrine ORM
-    level: 3
+    level: 
   - name: Laravel, Blade, Eloquent ORM
-    level: 5
+    level: 
   - name: Ruby on Rails
-    level: 3
+    level: 
   - name: MEAN Stack
-    level: 4
+    level: 
   - name: Spring
-    level: 3
+    level: 
 
 # Build settings
 
