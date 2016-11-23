@@ -6,7 +6,7 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Pedro Benevides Botelho
+author: Pedro Benevides
 author-title: Full Stack Developer
 gravatar: 6cf545b8cdd3a2bff5505f4c04ed27a1
 email: contato@pedrobenevides.com.br
@@ -38,27 +38,19 @@ front-end:
   - name: CSS 3
     level: 3
   - name: JavaScript
-    level: 4
-  - name: jQuery
-    level: 4
-  - name: Aurelia
     level: 3
-  - name: Vue.js
-    level: 
+  - name: jQuery
+    level: 3
+  - name: Aurelia
+    level: 3 
   - name: Bootstrap
     level: 4
-  - name: Materialize CSS
-    level: 5
   - name: LESS
     level: 1
   - name: SASS
     level: 2
-  - name: Stylus
-    level: 
   - name: Gulp
     level: 3
-  - name: Grunt
-    level: 
   - name: NPM
     level: 3
 
@@ -73,16 +65,8 @@ back-end:
     level: 4
   - name: DDD
     level: 2
-  - name: COBOL
-    level: 
-  - name: SQL
-    level:
-  - name: Lua
-    level: 
 
 mobile:
-  - name: Android
-    level: 
   - name: Apache Cordova
     level: 2
   - name: Ionic
@@ -99,24 +83,14 @@ db:
     level: 
   - name: SQL Server
     level: 4
-  - name: Oracle
-    level: 
-  - name: Firebase
-    level: 
-  - name: NoSQL
-    level: 
 
 devops:
   - name: Docker
     level: 1
-  - name: Vagrant
-    level: 
   - name: Team City
     level: 2
   - name: Git
     level: 4
-  - name: Apache Maven
-    level: 
   - name: Continuous Integration
     level: 3
   - name: Continuous Delivery
@@ -127,36 +101,12 @@ methodologies:
     level: 3
   - name: Scrum
     level: 3
-  - name: RUP
-    level: 
 
 others:
   - name: Web Services
     level: 4
   - name: REST
     level: 4
-  - name: JEE, JSF, JPA, EJB, CDI
-    level: 
-  - name: iReport, Jasper Reports
-    level: 
-  - name: Hibernate
-    level: 
-  - name: Grails
-    level: 
-  - name: Symfony
-    level: 
-  - name: Twig
-    level: 
-  - name: Doctrine ORM
-    level: 
-  - name: Laravel, Blade, Eloquent ORM
-    level: 
-  - name: Ruby on Rails
-    level: 
-  - name: MEAN Stack
-    level: 
-  - name: Spring
-    level: 
 
 # Build settings
 
